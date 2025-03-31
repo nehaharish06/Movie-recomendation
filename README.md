@@ -1,4 +1,5 @@
-Movie Recommendation App
+## Movie Recommendation App
+
 This is a Next.js-based Movie Recommendation App that helps users discover and explore movies based on their favorite genres. The app integrates with TMDb API for real-time movie data, providing details like cast, ratings, and recommendations.
 
 Key Features
