@@ -4,10 +4,15 @@ This is a Next.js-based Movie Recommendation App that helps users discover and e
 
 Key Features
 ✅ Search & Filter – Search movies by genre using the search bar or dropdown filter.
+
 ✅ Favorites List – Save and remove movies from your wishlist using the heart button.
+
 ✅ Detailed Movie Pages – View movie posters, descriptions, cast, ratings, and similar recommendations.
+
 ✅ Dynamic UI – A responsive, modern design with an interactive carousel on the homepage.
+
 ✅ TMDb API Integration – Fetches real-time movie data for accurate and up-to-date recommendations.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
