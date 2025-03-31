@@ -3,6 +3,7 @@
 This is a Next.js-based Movie Recommendation App that helps users discover and explore movies based on their favorite genres. The app integrates with TMDb API for real-time movie data, providing details like cast, ratings, and recommendations.
 
 Key Features
+
 ✅ Search & Filter – Search movies by genre using the search bar or dropdown filter.
 
 ✅ Favorites List – Save and remove movies from your wishlist using the heart button.
